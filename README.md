@@ -3,12 +3,12 @@ Projeto inicial de revisão do programa de capacitação EmbarcaTech - TIC 37 - 
 
 # Vídeo Demonstração
 
-https://youtu.be/mjIRMKBfFYA
+https://youtu.be/Lly8Vge1PhI
 
 # Hardware/Firmware
 
 Projeto desenvolvido em uma placa de desenvolvimento BitDogLab, versão 6.3.<br>
-Desenvolvimento de firmware feito através do PicoSDK, versão 2.1.1, com a IDE Visual Studio Code.
+Desenvolvimento de firmware feito através do PicoSDK, com a IDE Visual Studio Code.
 
 # Instruções
 
